@@ -9,4 +9,4 @@ Sou Designer e Programador FullStack
 Estudante de Sistemas de Informação pelo Instituto Federal de Educação, Ciência e Tecnologia da Bahia - IFBA - Campus de Vitória da Conquista
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaScripts&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaScripts&show_icons=true&theme=tokyonight)
