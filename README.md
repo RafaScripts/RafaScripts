@@ -22,4 +22,4 @@ Estudante de Sistemas de Informação pelo Instituto Federal de Educação, Ciê
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaScripts&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaScripts&count_private=true&show_icons=true&theme=tokyonight)
