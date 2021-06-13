@@ -8,6 +8,16 @@ Sou Designer e Programador FullStack
 
 Estudante de Sistemas de Informação pelo Instituto Federal de Educação, Ciência e Tecnologia da Bahia - IFBA - Campus de Vitória da Conquista
 
+
+### 📱 &nbsp;Social Media
+
+![Instagram](https://img.shields.io/badge/Instagram-05122A?style=flat&logo=instagram&logoColor=white)&nbsp;
+![linkedin](https://img.shields.io/badge/LinkedIn-05122A?style=flat&logo=linkedin&logoColor=white)&nbsp;
+![TikTok](https://img.shields.io/badge/TikTok-05122A?style=flat&logo=tiktok&logoColor=white)&nbsp;
+![youtube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)&nbsp;
+![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=flat&logo=twitch&logoColor=white)&nbsp;
+
+
 ### 🛠 &nbsp;Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
