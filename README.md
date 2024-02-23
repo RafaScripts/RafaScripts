@@ -36,6 +36,6 @@ Tenho muita experiencia na area bancaria e financeira, crio aplicações com uso
 
 
 
-![RafaScripts's Stats](https://github-readme-stats.vercel.app/api?username=RafaScripts&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
-![RafaScripts's Streak](https://github-readme-streak-stats.herokuapp.com/?user=RafaScripts&theme=tokyonight&hide_border=false)
+![RafaScripts's Stats](https://github-readme-stats.vercel.app/api?username=RafaScripts&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)&nbsp;
+![RafaScripts's Streak](https://github-readme-streak-stats.herokuapp.com/?user=RafaScripts&theme=tokyonight&hide_border=false)&nbsp;
 ![RafaScripts's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaScripts&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
