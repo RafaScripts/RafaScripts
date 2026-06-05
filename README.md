@@ -51,6 +51,24 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/RafaScripts" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=RafaScripts&style=for-the-badge&color=1f6feb" alt="Profile views" />
+  </a>
+  <a href="https://github.com/RafaScripts?tab=followers" target="_blank">
+    <img src="https://img.shields.io/github/followers/RafaScripts?style=for-the-badge&logo=github&label=Followers" alt="GitHub followers" />
+  </a>
+  <a href="https://github.com/RafaScripts?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/github/stars/RafaScripts/RafaScripts?style=for-the-badge&logo=github&label=Profile%20Repo%20Stars" alt="Profile repository stars" />
+  </a>
+  <a href="https://github.com/RafaScripts?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=github&label=Public%20Repos&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FRafaScripts" alt="Public repositories" />
+  </a>
+  <a href="https://github.com/RafaScripts/RafaScripts/commits/master" target="_blank">
+    <img src="https://img.shields.io/github/last-commit/RafaScripts/RafaScripts?style=for-the-badge&logo=github&label=Last%20Commit" alt="Last commit" />
+  </a>
+</p>
+
 ---
 
 ## Tecnologias | Tech Stack
