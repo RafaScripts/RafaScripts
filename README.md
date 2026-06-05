@@ -21,20 +21,6 @@
 
 ## Estatísticas | GitHub Stats
 
-<div align="center">
-  <a href="https://github.com/RafaScripts">
-    <img src="https://github-readme-stats.vercel.app/api?username=RafaScripts&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true" height="160" alt="GitHub stats" />
-  </a>
-  <a href="https://github.com/RafaScripts?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RafaScripts&layout=compact&langs_count=8&theme=github_dark&hide_border=true" height="160" alt="Top languages" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://streak-stats.demolab.com?user=RafaScripts&theme=github-dark-blue&hide_border=true">
-    <img src="https://streak-stats.demolab.com?user=RafaScripts&theme=github-dark-blue&hide_border=true" height="170" alt="GitHub streak stats" />
-  </a>
-</div>
 
 <div align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
