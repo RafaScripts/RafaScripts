@@ -30,6 +30,27 @@
   </a>
 </div>
 
+<div align="center">
+  <a href="https://streak-stats.demolab.com?user=RafaScripts&theme=github-dark-blue&hide_border=true">
+    <img src="https://streak-stats.demolab.com?user=RafaScripts&theme=github-dark-blue&hide_border=true" height="170" alt="GitHub streak stats" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=RafaScripts&theme=github-compact&hide_border=true" alt="Contribution activity graph" />
+  </a>
+</div>
+
+<p align="center">
+  <a href="https://madnight.github.io/githut/#/pull_requests/2024/1" target="_blank">
+    <img src="https://img.shields.io/badge/GitHut-Pull%20Request%20Rank-4c1?style=for-the-badge&logo=github&logoColor=white" alt="GitHut pull request ranking" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
+    <img src="https://img.shields.io/badge/Powered%20by-GitHub%20Readme%20Stats-1f6feb?style=for-the-badge&logo=github&logoColor=white" alt="Powered by GitHub Readme Stats" />
+  </a>
+</p>
+
 ---
 
 ## Tecnologias | Tech Stack
