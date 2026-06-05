@@ -1,4 +1,4 @@
-<h1 align="center">Rafael Silva | Full Stack Developer</h1>
+<h1 align="center">Rafael S. Freire | Full Stack Developer</h1>
 
 <p align="center">
   Desenvolvedor Full Stack com foco em soluções web modernas, produtos financeiros e arquitetura escalável.
